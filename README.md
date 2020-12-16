@@ -26,5 +26,5 @@ I am Dmitry, a passionate software engineer from the wonderful Belarus with a st
 
 ## 📫 How to reach me
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitryrakovets/) 👨🏻‍💻
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rakovets/) 👨🏻‍💻
 - Send me an [email](mailto:dmitryrakovets@gmail.com) 📧
