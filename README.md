@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rakovets)
 
 I am Dmitry, a passionate software engineer from the wonderful Belarus with a strong interest in Java, DevOps, Linux, Microservice and Cloud Architectures.
 
