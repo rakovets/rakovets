@@ -1,4 +1,4 @@
-### Hi there! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rakovets)
+### Hi there! 👋 [![HitCount](https://hits.dwyl.com/rakovets.svg?style=flat-square)](http://hits.dwyl.com/rakovets)
 
 I am Dmitry, a passionate software engineer with a strong interest in Java, DevOps, Linux, Microservice and Cloud Architectures.
 
