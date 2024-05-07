@@ -1,4 +1,4 @@
-### Hi there! 👋 [![HitCount](https://hits.dwyl.com/rakovets.svg?style=flat-square)](http://hits.dwyl.com/rakovets)
+### Hi there! 👋 [![HitCount](https://hits.dwyl.com/rakovets/rakovets.svg?style=flat-square)](http://hits.dwyl.com/rakovets/rakovets)
 
 I am Dmitry, a passionate software engineer with a strong interest in Java, DevOps, Linux, Microservice and Cloud Architectures.
 
