@@ -43,4 +43,3 @@ I am Dmitry, a passionate software engineer with a strong interest in Java, DevO
 ## 📫 How to reach me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/rakovets/) 👨🏻‍💻
-- Send me an [email](mailto:dmitryrakovets@gmail.com) 📧
